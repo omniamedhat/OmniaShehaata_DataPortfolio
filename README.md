@@ -10,7 +10,7 @@ My work sits at the intersection of **Machine Learning, Generative AI, customer 
 
 ## Featured Projects
 
-### 01. 📰 Newsflash | AI-Powered News Intelligence
+### 01. Newsflash | AI-Powered News Intelligence
 
 **NLP · Topic Modeling · Sentiment Analysis · LLMs**
 
@@ -87,7 +87,7 @@ The system dynamically evaluates route conditions to identify safer travel alter
 
 ---
 
-## 🧠 What I Work With
+## What I Work With
 
 **Machine Learning**  
 Classification · Recommender Systems · NLP · Feature Engineering · Predictive Modeling · Pattern Recognition
